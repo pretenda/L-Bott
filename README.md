@@ -3,7 +3,8 @@ L-Bott
 
 Author: Matt Fanning
 
-A 3D Printer in a Sortimo L-Boxx.
+A 3D Printer in a Sortimo L-Boxx. Based on PopFab by Ilan Moyer and Nadya Peek (http://vimeo.com/45911972).
+
 This is a work in progress.
 
 
